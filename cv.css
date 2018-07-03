@@ -1,0 +1,18 @@
+h1
+{
+	text-align: center;
+}
+hr
+{
+	position:right;
+	color:black;
+}
+img
+{
+  text-align:right;
+  width: 50%
+}
+#banniere 
+{
+  background-image:url(fleursrouges.jpg);
+}
