@@ -1,6 +1,7 @@
 h1
 {
 	text-align: center;
+	font-family: 'Syncopate', sans-serif;
 }
 hr
 {
@@ -10,9 +11,58 @@ hr
 img
 {
   text-align:right;
-  width: 50%
+  width: 10%
+  bottom:10%;
+  top: 100%;
+  margin-top: -80px;
 }
-#banniere 
+#PRESENTATION
 {
-  background-image:url(fleursrouges.jpg);
+	text-align:left;
+}
+
+h2
+{
+	text-align: center;
+}
+#experiences
+{
+	text-align:center;
+}
+#objectif
+{
+	text-align: center;
+}
+img
+{
+	width:10%
+	
+}
+div.link-list 
+{
+        width:11.2em;
+        position:absolute;
+        top:0;
+        font-size:80%;
+        padding-left:1%;
+        padding-right:1%;
+        margin-left:0;
+        margin-right:0;
+}
+.line
+{
+	border-top: 5px double black;
+}
+p
+{
+	font-family:'Alike', serif;
+	
+}
+h2
+{
+	font-family: 'Syncopate', sans-serif;
+}
+body
+{
+	background-image: url(index.jpeg);
 }
